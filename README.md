@@ -20,6 +20,8 @@
 [12-08 항해99 6주차 미니프로젝트 DAY-3](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/December/12-08.md)<br/>
 [12-09 항해99 6주차 미니프로젝트 DAY-4](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/December/12-09.md)<br/>
 [12-10 항해99 6주차 미니프로젝트 DAY-5](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/December/12-10.md)<br/>
+[12-11 항해99 6주차 미니프로젝트 DAY-6](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/December/12-11.md)<br/>
+[12-12 - WEEK-6 WIL](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/December/12-12.md)<br/>
 
 <hr/>
 
