@@ -1,5 +1,5 @@
-const input = require("fs")
-  .readFileSync("/dev/stdin")
+let input = require("fs")
+  .readFileSync("10952.txt")
   .toString()
   .trim()
   .split("\n");
