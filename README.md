@@ -29,6 +29,13 @@
 [12-17 항해99 7주차 클론코딩 DAY-5](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/December/12-17.md)<br/>
 [12-18 항해99 7주차 클론코딩 DAY-6](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/December/12-18.md)<br/>
 [12-19 - WEEK-7 WIL](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/December/12-19.md)<br/>
+[12-20 항해99 8주차 실전프로젝트 DAY-1](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/December/12-20.md)<br/>
+[12-21 항해99 8주차 실전프로젝트 DAY-2](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/December/12-21.md)<br/>
+[12-22 항해99 8주차 실전프로젝트 DAY-3](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/December/12-22.md)<br/>
+[12-23 항해99 8주차 실전프로젝트 DAY-4](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/December/12-23.md)<br/>
+[12-24 항해99 8주차 실전프로젝트 DAY-5](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/December/12-24.md)<br/>
+[12-25 항해99 8주차 실전프로젝트 DAY-6](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/December/12-25.md)<br/>
+[12-26 항해99 8주차 실전프로젝트 DAY-7](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/December/12-26.md)<br/>
 
 <hr/>
 
