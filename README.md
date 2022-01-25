@@ -66,8 +66,8 @@
 [01-20 항해99 12주차 실전프로젝트 DAY-32](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/December/01-20.md)<br/>
 [01-21 항해99 12주차 실전프로젝트 DAY-33](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/December/01-21.md)<br/>
 [01-22 항해99 12주차 실전프로젝트 DAY-34](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/December/01-22.md)<br/>
-[01-23 항해99 12주차 실전프로젝트 DAY-35](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/December/01-22.md)<br/>
-[01-24 항해99 12주차 실전프로젝트 DAY-36](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/December/01-22.md)<br/>
+[01-23 항해99 12주차 실전프로젝트 DAY-35](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/December/01-23.md)<br/>
+[01-24 항해99 12주차 실전프로젝트 DAY-36](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/December/01-24.md)<br/>
 
 <hr/>
 
