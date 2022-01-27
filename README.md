@@ -1,6 +1,6 @@
-# DO MY BEST, EVERYDAY
+# `DO MY BEST, EVERYDAY`
 
-## Today what i did
+## `Today what i did`
 
 # [21November](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/21November/)
 
