@@ -42,7 +42,7 @@
 [12-30 항해99 9주차 실전프로젝트 DAY-11](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/21December/12-30.md)<br/>
 [12-31 항해99 9주차 실전프로젝트 DAY-12](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/21December/12-31.md)<br/>
 
-# 22년
+# `22년`
 
 # [22January](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/22January/)
 
