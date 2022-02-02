@@ -74,5 +74,14 @@
 [01-26 항해99 13주차 실전프로젝트 DAY-38](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/22January/01-26.md)<br/>
 [01-27 항해99 13주차 실전프로젝트 DAY-39](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/22January/01-27.md)<br/>
 [01-28 항해99 13주차 실전프로젝트 DAY-40 - 최종발표](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/22January/01-28.md)<br/>
+[01-29 항해99 13주차 실전프로젝트 DAY-41 - 실전프로젝트 마무리](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/22January/01-29.md)<br/>
+[01-30](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/22January/01-30.md)<br/>
+[01-31](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/22January/01-31.md)<br/>
 
 <hr/>
+
+# [22February](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/22February/)
+
+[02-01](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/22February/02-01.md)<br/>
+[02-02](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/22February/02-02.md)<br/>
+[02-03](https://github.com/O-h-y-o/TIL/blob/master/Today%20what%20I%20did/22February/02-03.md)<br/>
